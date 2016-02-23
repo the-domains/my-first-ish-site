@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My first ISH-Site]]></title>
+        <description><![CDATA[My first ISH-Site]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 15:15:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lorem ipsum dolor sit amet.]]></title>
+            <description><![CDATA[<article><h1>Lorem ipsum dolor sit amet.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8e89ae55a91594a100655993ebb17f86b5b40a2.jpg"></article>]]></description>
+            <link>undefinedlorem-ipsum-dolor-sit-amet/index.html</link>
+            <guid isPermaLink="false">27e06459-7a1f-4db6-8fbe-cfb627966ec7</guid>
+            <pubDate>Tue, 23 Feb 2016 15:15:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
