@@ -4,7 +4,7 @@
         <description><![CDATA[My first ISH-Site]]></description>
         <link>https://thegrid.ai/my-first-ish-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 15:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 15:35:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-first-ish-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Tue, 23 Feb 2016 15:35:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b63706-3197-4708-ab1c-7fbc895b5b67.jpg">]]></description>
+            <title><![CDATA[Second Post]]></title>
+            <description><![CDATA[<article><h1>Second Post</h1><p>some more text for this post ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9549c6eb3ac5bffd8ce2680a17abb518f2a247e8.jpg"></article>]]></description>
             <link>https://thegrid.ai/my-first-ish-site/77dffc77-c62f-4d63-bf4e-5439dcd9b3ab/index.html</link>
             <guid isPermaLink="false">77dffc77-c62f-4d63-bf4e-5439dcd9b3ab</guid>
-            <pubDate>Tue, 23 Feb 2016 15:31:15 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 15:35:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lorem ipsum dolor sit amet.]]></title>
