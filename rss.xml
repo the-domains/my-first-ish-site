@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[My first ISH-Site]]></title>
         <description><![CDATA[My first ISH-Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-first-ish-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 15:15:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 15:31:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-first-ish-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b63706-3197-4708-ab1c-7fbc895b5b67.jpg">]]></description>
+            <link>https://thegrid.ai/my-first-ish-site/77dffc77-c62f-4d63-bf4e-5439dcd9b3ab/index.html</link>
+            <guid isPermaLink="false">77dffc77-c62f-4d63-bf4e-5439dcd9b3ab</guid>
+            <pubDate>Tue, 23 Feb 2016 15:31:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lorem ipsum dolor sit amet.]]></title>
-            <description><![CDATA[<article><h1>Lorem ipsum dolor sit amet.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8e89ae55a91594a100655993ebb17f86b5b40a2.jpg"></article>]]></description>
-            <link>undefinedlorem-ipsum-dolor-sit-amet/index.html</link>
+            <description><![CDATA[<article><h1>Lorem ipsum dolor sit amet.</h1><p>bla bla bla link</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8e89ae55a91594a100655993ebb17f86b5b40a2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/my-first-ish-site/lorem-ipsum-dolor-sit-amet/index.html</link>
             <guid isPermaLink="false">27e06459-7a1f-4db6-8fbe-cfb627966ec7</guid>
             <pubDate>Tue, 23 Feb 2016 15:15:55 GMT</pubDate>
         </item>
