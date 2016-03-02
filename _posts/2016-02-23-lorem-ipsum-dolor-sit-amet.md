@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T08:04:47.828Z'
-dateModified: '2016-03-02T08:03:14.662Z'
+datePublished: '2016-03-02T09:03:44.544Z'
+dateModified: '2016-03-02T09:03:10.293Z'
 title: GOPRO HERO4 SILVER BUNDLE
 author: []
 sourcePath: _posts/2016-02-23-lorem-ipsum-dolor-sit-amet.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: lorem-ipsum-dolor-sit-amet/index.html
-_type: WebPage
+_type: Article
 
 ---
 # GOPRO HERO4 SILVER BUNDLE
@@ -38,5 +38,3 @@ Get a solid grip on your GoPro and keep it afloat with The Handler. Whether capt
 **3\. book:_GoPro: Professional Guide to Filmmaking_**
 
 This 296-page book features everything you need to know about how to shoot, edit and share your GoPro content.
-
-#
