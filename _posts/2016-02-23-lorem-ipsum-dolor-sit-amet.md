@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T15:45:02.809Z'
-dateModified: '2016-02-23T15:44:24.031Z'
-title: Lorem ipsum dolor sit amet.
+datePublished: '2016-03-02T08:03:10.485Z'
+dateModified: '2016-03-02T08:02:38.463Z'
+title: GOPRO HERO4 SILVER BUNDLE
 author: []
 sourcePath: _posts/2016-02-23-lorem-ipsum-dolor-sit-amet.md
 published: true
@@ -22,10 +22,7 @@ url: lorem-ipsum-dolor-sit-amet/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42633a90-009a-450a-9f5b-c2156f31cbb0.jpg)
+# GOPRO HERO4 SILVER BUNDLE
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6a41aea-a524-4586-bf96-b7b23c51873a.jpg)
 
-# Lorem ipsum dolor sit amet.
-
-bla bla bla [link][0]
-
-[0]: www.spiegel.de
+#
