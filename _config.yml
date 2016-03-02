@@ -2,6 +2,7 @@ name: My first ISH-Site
 favicon: null
 layout_spectrum: 0.12519
 typography_spectrum: 0.31713
+title: inSPIRED
 cta:
   domain: null
   bucket: null
