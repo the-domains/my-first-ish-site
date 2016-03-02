@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[My first ISH-Site]]></title>
-        <description><![CDATA[My first ISH-Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[inSPIRED]]></title>
+        <description><![CDATA[inSPIRED]]></description>
+        <link>https://thegrid.ai/my-first-ish-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 08:09:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 08:56:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-first-ish-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LG 32LE3300]]></title>
-            <description><![CDATA[<article><h1>LG 32LE3300</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c87d9e-184d-4519-a17c-3ab3d73a1896.jpg"></article>]]></description>
-            <link>undefinedlg-32le3300/index.html</link>
+            <description><![CDATA[<article><h1>LG 32LE3300</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c70c8f2e43bb8f56f4cbb2cbdafd30b24a20272b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/my-first-ish-site/lg-32le3300/index.html</link>
             <guid isPermaLink="false">82214fe7-1531-4478-9568-eb0707a9f30f</guid>
-            <pubDate>Wed, 02 Mar 2016 08:06:05 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 08:56:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
