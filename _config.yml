@@ -1,20 +1,4 @@
-name: My first ISH-Site
-favicon: null
-layout_spectrum: 0.12519
 typography_spectrum: 0.31713
-title: inSPIRED
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#2c2d2f'
@@ -26,4 +10,21 @@ color:
   lightness: 0.75
   saturation: 0.3780513445381075
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.12519
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: My first ISH-Site
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: inSPIRED
+description: The best resposnive starter store on the planet
 purpose: []
