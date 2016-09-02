@@ -31,6 +31,9 @@ navigation:
   - name: LG 32LE3300
     id: 82214fe7-1531-4478-9568-eb0707a9f30f
     type: content
+  - name: KODAK C SERIES EASYSHARE C142
+    id: 77dffc77-c62f-4d63-bf4e-5439dcd9b3ab
+    type: content
 favicon: null
 title: inSPIRED
 description: The best resposnive starter store on the planet
