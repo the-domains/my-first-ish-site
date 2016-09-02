@@ -4,7 +4,7 @@
         <description><![CDATA[inSPIRED]]></description>
         <link>https://thegrid.ai/my-first-ish-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 07:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 07:17:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-first-ish-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GOPRO HERO4 SILVER]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/my-first-ish-site/2cc6d35d-2679-43cc-8b55-182a6c9a2b51/index.html</link>
             <guid isPermaLink="false">2cc6d35d-2679-43cc-8b55-182a6c9a2b51</guid>
             <pubDate>Wed, 02 Mar 2016 08:57:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KODAK C SERIES EASYSHARE C142]]></title>
+            <description><![CDATA[<article><h1>KODAK C SERIES EASYSHARE C142</h1><p>One-button upload—turn moments into memories</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1071011befecd0deb59f966c5905b23c08b6fcd9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/my-first-ish-site/kodak-c-series-easyshare-c142/index.html</link>
+            <guid isPermaLink="false">77dffc77-c62f-4d63-bf4e-5439dcd9b3ab</guid>
+            <pubDate>Wed, 31 Aug 2016 07:17:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GOPRO HERO4 SILVER BUNDLE]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/my-first-ish-site/lg-32le3300/index.html</link>
             <guid isPermaLink="false">82214fe7-1531-4478-9568-eb0707a9f30f</guid>
             <pubDate>Wed, 31 Aug 2016 07:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KODAK C SERIES EASYSHARE C142]]></title>
-            <description><![CDATA[<article><h1>KODAK C SERIES EASYSHARE C142</h1><p>One-button upload—turn moments into memories</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1071011befecd0deb59f966c5905b23c08b6fcd9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/my-first-ish-site/kodak-c-series-easyshare-c142/index.html</link>
-            <guid isPermaLink="false">77dffc77-c62f-4d63-bf4e-5439dcd9b3ab</guid>
-            <pubDate>Wed, 02 Mar 2016 08:57:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
