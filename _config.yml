@@ -28,6 +28,9 @@ navigation:
   - name: GOPRO HERO4 SILVER BUNDLE
     id: 27e06459-7a1f-4db6-8fbe-cfb627966ec7
     type: content
+  - name: LG 32LE3300
+    id: 82214fe7-1531-4478-9568-eb0707a9f30f
+    type: content
 favicon: null
 title: inSPIRED
 description: The best resposnive starter store on the planet
