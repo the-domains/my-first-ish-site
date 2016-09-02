@@ -4,7 +4,7 @@
         <description><![CDATA[inSPIRED]]></description>
         <link>https://thegrid.ai/my-first-ish-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 09:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 07:07:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-first-ish-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GOPRO HERO4 SILVER]]></title>
@@ -18,7 +18,14 @@
             <description><![CDATA[<article><h1>GOPRO HERO4 SILVER BUNDLE</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/521e077d664289725b510ffebd5335ecf2b35165.jpg"></article>]]></description>
             <link>https://thegrid.ai/my-first-ish-site/lorem-ipsum-dolor-sit-amet/index.html</link>
             <guid isPermaLink="false">27e06459-7a1f-4db6-8fbe-cfb627966ec7</guid>
-            <pubDate>Wed, 02 Mar 2016 09:03:44 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 07:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LG 32LE3300]]></title>
+            <description><![CDATA[<article><h1>LG 32LE3300</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e11d82b781e11fb50da9d23ef084e30c2abad48d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/my-first-ish-site/lg-32le3300/index.html</link>
+            <guid isPermaLink="false">82214fe7-1531-4478-9568-eb0707a9f30f</guid>
+            <pubDate>Wed, 02 Mar 2016 09:01:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KODAK C SERIES EASYSHARE C142]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/my-first-ish-site/kodak-c-series-easyshare-c142/index.html</link>
             <guid isPermaLink="false">77dffc77-c62f-4d63-bf4e-5439dcd9b3ab</guid>
             <pubDate>Wed, 02 Mar 2016 08:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LG 32LE3300]]></title>
-            <description><![CDATA[<article><h1>LG 32LE3300</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c70c8f2e43bb8f56f4cbb2cbdafd30b24a20272b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/my-first-ish-site/lg-32le3300/index.html</link>
-            <guid isPermaLink="false">82214fe7-1531-4478-9568-eb0707a9f30f</guid>
-            <pubDate>Wed, 02 Mar 2016 09:01:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
