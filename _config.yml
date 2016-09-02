@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: GOPRO HERO4 SILVER BUNDLE
+    id: 27e06459-7a1f-4db6-8fbe-cfb627966ec7
+    type: content
 favicon: null
 title: inSPIRED
 description: The best resposnive starter store on the planet
