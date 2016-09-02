@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T09:03:44.544Z'
-dateModified: '2016-03-02T09:03:10.293Z'
+datePublished: '2016-08-31T07:06:47.777Z'
+dateModified: '2016-08-31T07:06:47.052Z'
 title: GOPRO HERO4 SILVER BUNDLE
 author: []
 sourcePath: _posts/2016-02-23-lorem-ipsum-dolor-sit-amet.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: lorem-ipsum-dolor-sit-amet/index.html
 _type: Article
 
